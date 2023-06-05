@@ -27,6 +27,5 @@ npm run dev
 ### 🏋️ About The Project :
 <div id="body" align="stretch">
  <h3>
-An effective fitness website design leverages function, incorporates crisp visual elements, and engages its audience. At EVO GYM, 
-I exercise my personal set of best practices whenever tasked with creating a custom fitness website design. 
+An effective fitness website design leverages function, incorporates crisp visual elements, and engages its audience.
  </h3>
