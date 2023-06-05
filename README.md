@@ -1,20 +1,15 @@
-### ✔️ Install
+### ✔️ Install :
 
 <h3>
 npm install
 </h3>
 
 
-### ▶️ Start
+### ▶️ Start :
 
 <h3>
 npm run dev
 </h3>
-
-
-<div id="header" align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
-</div>
 
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -28,7 +23,7 @@ npm run dev
 </div>
 
 
-### 🏋️ About The Project
+### 🏋️ About The Project :
 <div id="body" align="stretch">
  <h3>
 An effective fitness website design leverages function, incorporates crisp visual elements, and engages its audience. At EVO GYM, 
