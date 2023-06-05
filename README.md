@@ -1,10 +1,14 @@
 # Install
 
+<h3>
 npm install
+</h3>
 
 # Start
 
+<h3>
 npm run dev
+</h3>
 
 <div id="header" align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=DESCRIPTION)](https://git.io/typing-svg)
@@ -17,6 +21,7 @@ npm run dev
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailWind" alt="TailWind" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/svg/374167/vite" title="Vite" **alt="Vite" width="40" height="40"/>
 </div>
 
 ### 🏋️ About The Project
