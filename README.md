@@ -4,15 +4,18 @@
 npm install
 </h3>
 
+
 ### ▶️ Start
 
 <h3>
 npm run dev
 </h3>
 
+
 <div id="header" align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=DESCRIPTION)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 </div>
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -23,6 +26,7 @@ npm run dev
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/374167/vite.svg" title="Vite" **alt="Vite" width="40" height="40"/>
 </div>
+
 
 ### 🏋️ About The Project
 <div id="body" align="stretch">
